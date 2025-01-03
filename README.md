@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mehtadeeyaaa
 - 👀 I’m interested in Artificial Intelligence and CyberSec
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: she/her 
